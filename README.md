@@ -2,9 +2,14 @@
 Welcome to 2020 Datahacks! Out of hundreds of applicants, you’ve been selected because you display true potential for solving complex problems and exude a passion for comprehending and transforming data. Let’s begin the Hackathon!
 
 # READ BEFORE HACKING STARTS
-> [DataHacks 2020 Website](http://datahacks.tech/): Schedule is listed here.\
-> [Slack Channel](https://www.google.com/): Our main tool of communication. (TODO: Link)\
-> [Devpost](https://www.google.com/): The website to submit your report (TODO: Link)
+### Useful tools and websites
+- [Anaconda](https://www.anaconda.com/distribution/?gclid=EAIaIQobChMI3Mj06rav5wIVwRd9Ch20mw4zEAAYASAAEgLRDvD_BwE#download-section): Python 3.7, Graphical Installer recommended but not required
+- Slack: [Mac](https://slack.com/downloads/mac) [Windows](https://slack.com/downloads/windows)
+- [DataHacks 2020 Website](http://datahacks.tech/): Schedule is listed here.
+- [Slack Channel](https://www.google.com/): Our main tool of communication. (TODO: Link)
+- [Devpost](https://www.google.com/): The website to submit your report (TODO: Link)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [Github Desktop](https://desktop.github.com/): If you don’t know Github or don’t have a Github account, please look at this [post](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) first
 ### Rules
 * Each team consists of up to **THREE** people (≤ 3)
 * For beginner track, **ONLY** beginners can form a team
