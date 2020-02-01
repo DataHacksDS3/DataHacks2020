@@ -22,12 +22,12 @@ Welcome to 2020 Datahacks! Out of hundreds of applicants, you’ve been selected
 ### Beginner Track
 > This is a beginner-friendly track! We will give you a dataset that contains San Diego Housing information from the 1970s. You may work on problems such as the relationship between housing quality and ethnic groups/genders, predictions of housing prices based on given conditions, etc. Don't worry if you don't have any knowledge in data science (including python, pandas, EDA, machine learning...). We'll have a series of workshops to help you build your project!
 
-*Find more information [here]*.
+*Find more information [here](./Dataset/README.md)*.
 ### Science Track
 > In this challenge, we’re interested in using Data Visualization and NLP (Natural Language Processing) to analyze chronic illnesses through accumulated survey data. The data was retrieved from the CDC website. The data is real-world data and can be messy, preprocessing may be required to extract trends and patterns in the data. The end goal is to create a report with at least 3 data visualizations potentially incorporating NLP to send an important message about a specific chronic illness to an audience. Also, make sure your report contains what you did (cleaning, processing, any modeling, etc) and is submitted as well to ensure good data science practices. This prompt is relatively open-ended: other data may be incorporated as deemed necessary and the message you decide to convey is up to you (however, do make sure to back it up with evidence and visuals).
 
-*Find more information [here]*.
+*Find more information [here](./Dataset/README.md)*.
 ### Business Track
 > Over the past decade, the transportation industry has become one of the most promising areas for careers in Data Science and/or Data Engineering. At UBER, the world’s most popular ride-share service, data scientists have access to billions of rows of data and are expected to showcase mastery over-processing, visualizing, and analyzing the company’s data.
 
-*Find more information [here]*.
+*Find more information [here](./Dataset/README.md)*.
