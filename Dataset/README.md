@@ -51,11 +51,11 @@ Dataset: US Chronic Disease [Download Link](https://drive.google.com/drive/folde
 > 5. Prepare a report containing your results from the analysis. It should contain the following: Intro, data cleaning/pre-processing, visualizations (at least 3), analysis, proposal, conclusion.
 
 #### Metadata
-> Size: 154 MB 
-> Rows: 519,718 rows
-> Topics: 17 different Illnesses
-> Attributes: 34 attributes including time values, location, topic, questions, data value and units, and confidence limits with different stratifications.
-> Nulls: Null values are present (hint some columns are all null)
+> - Size: 154 MB 
+> - Rows: 519,718 rows
+> - Topics: 17 different Illnesses
+> - Attributes: 34 attributes including time values, location, topic, questions, data value and units, and confidence limits with different stratifications.
+> - Nulls: Null values are present (hint some columns are all null)
 
 > Key terms:
 > - StratificationCategory: different indicators (like race, gender, etc) that help filter responses for surveys to a particular demographic.   
