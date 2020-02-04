@@ -45,8 +45,9 @@ Dataset: US Chronic Disease [Download Link](https://drive.google.com/drive/folde
 
 #### Prompt
 > 1. Clean the data. There are quite a few null values and some attributes names are relatively vague. It will help to clean up the data and state your assumptions.
-> 2. In a manner, this is a dataset combined from different datasets, and is very open-ended to interpretation.
-> 3. Use data visualization tools (Python Libraries, Tableau, etc.) to extract trends and patterns from the data. You must create an infographic with five or more related sections from any topic of interest. Are there any questions that are common among different topics? Or, do any topics have the same type of questions? NLP may be useful. Create visualization graphs to present your results.
+> 2. In a manner, this is a dataset combined from different datasets, and is very open-ended to interpretation.\
+> - Use data visualization tools (Python Libraries, Tableau, etc.) to extract trends and patterns from the data. You must create an infographic with five or more related sections from any topic of interest. \
+> - Are there any questions that are common among different topics? Or, do any topics have the same type of questions? NLP may be useful. Create visualization graphs to present your results.
 > 4. Present your results in the form of a research proposal. Explore the data and come up with a hypothesis (ie California has a bigger issue with obesity chronic illnesses in comparison to other states). Perform Experimental Testing on your proposal. This will help back up your findings as well.
 > 5. Prepare a report containing your results from the analysis. It should contain the following: Intro, data cleaning/pre-processing, visualizations (at least 3), analysis, proposal, conclusion.
 
