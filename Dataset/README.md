@@ -32,8 +32,9 @@ Dataset: San Diego Housing Information [Download Link](https://drive.google.com/
 
 [Detailed Information](https://docs.google.com/document/d/1tqs9xzabHg8Mh-SiPP16YxR-csN06R_fBX_IVWyQD_M/edit?usp=sharing)
 
-#### Guidence on Report
-> 
+#### Guidence on Report/Presentation
+> - Section 1: Abstract/Introduction
+>   
 
 Collected by the United States Department of Commerce. Bureau of the Census;\
 Citation: University of California San Diego Data Services, 2005, "Block Group-Level Data, 1970: San Diego, California", hdl.handle.net/UCSD/21GY3 UNF:5:nZTGvV96cvLUqAgFl5TThg== University of California San Diego Social Science Data Collection [Distributor] V1 [Version]
@@ -75,7 +76,7 @@ Dataset: UBER Travel Time Analysis [Download Link](https://drive.google.com/driv
 
 #### Prompt
 > **Part 1**\
-> In this track, you will have the opportunity to work with real-world UBER time-series data from the San Francisco area, spanning across the second quarter of 2019 **(01/01/2019 - 06/30/2019)**. The time-series data will be centered on **travel times** for UBER trips in the overall San Francisco area. Before you continue on, please review the metadata below. You will be required to **process**, **visualize**, and **analyze** the data while answering the following questions along the way:
+> In this track, you will have the opportunity to work with real-world UBER time-series data from the San Francisco area, spanning across the first and second quarters of 2019. The time-series data will be centered on **travel times** for UBER trips in the overall San Francisco area. Before you continue on, please review the metadata below. You will be required to **process**, **visualize**, and **analyze** the data while answering the following questions along the way:
 > 1. For every Hotspot, recommend the appropriate BART station to get off of in order to minimize travel time. \
 > a. Does the appropriate BART station change throughout the day? \
 > b. Throughout the week? 
