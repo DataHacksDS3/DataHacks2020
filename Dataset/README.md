@@ -33,8 +33,10 @@ Dataset: San Diego Housing Information [Download Link](https://drive.google.com/
 [Detailed Information](https://docs.google.com/document/d/1tqs9xzabHg8Mh-SiPP16YxR-csN06R_fBX_IVWyQD_M/edit?usp=sharing)
 
 #### Guidence on Report/Presentation
-> - Section 1: Abstract/Introduction
->   
+> - Section 1: Data Cleaning/Preprocessing\
+>   In this section, breifly explain what you have done cleaning the data, what challenges you have encountered and how you resolved them. Also, state any assumptions you made here.
+> - Section 2: Data Visualization\
+>   In this section, 
 
 Collected by the United States Department of Commerce. Bureau of the Census;\
 Citation: University of California San Diego Data Services, 2005, "Block Group-Level Data, 1970: San Diego, California", hdl.handle.net/UCSD/21GY3 UNF:5:nZTGvV96cvLUqAgFl5TThg== University of California San Diego Social Science Data Collection [Distributor] V1 [Version]
@@ -47,8 +49,8 @@ Dataset: US Chronic Disease [Download Link](https://drive.google.com/drive/folde
 #### Prompt
 > 1. Clean the data. There are quite a few null values and some attributes names are relatively vague. It will help to clean up the data and state your assumptions.
 > 2. In a manner, this is a dataset combined from different datasets, and is very open-ended to interpretation.\
-> a. Use data visualization tools (Python Libraries, Tableau, etc.) to extract trends and patterns from the data. You must create an infographic with five or more related sections from any topic of interest. \
-> b. Are there any questions that are common among different topics? Or, do any topics have the same type of questions? NLP may be useful. Create visualization graphs to present your results.
+> a. Use data visualization tools (Python Libraries, Tableau, etc.) to extract trends and patterns from the data. You must create an infographic with three or more related sections from any topic of interest. \
+> b. Are there any questions that are common among different topics? Or, do any topics have the same type of questions? Create visualization graphs related to NLP to help present your results.
 > 3. Present your results in the form of a research proposal. Explore the data and come up with a hypothesis (ie California has a bigger issue with obesity chronic illnesses in comparison to other states). Perform Experimental Testing on your proposal. This will help back up your findings as well.
 > 4. Prepare a report containing your results from the analysis. It should contain the following: Intro, data cleaning/pre-processing, visualizations (at least 3), analysis, proposal, conclusion.
 
@@ -64,8 +66,17 @@ Dataset: US Chronic Disease [Download Link](https://drive.google.com/drive/folde
 > - StatificationId: ID terms that correspond to the categories.
 > - ConfidenceLimit: Some values have uncertainty, thus a low confidence limit and high confidence limit are presented to give a range of possible values.
 
-#### Guidence on Report
-> 
+#### Guidence on Report/Presentation
+> - Section 1: Data Cleaning/Preprocessing\
+>   In this section, breifly explain what you have done cleaning the data, what challenges you have encountered and how you resolved them. Also, state any assumptions you made here.
+> - Section 2: Data Visualization\
+>   In this section, make sure that your visualizations are informative, creative, and relevant. State what tools you used to make the visualizations.
+> - Section 3: NLP Analysis\
+>   In this section, explain any techniques you used in details, including but not limit to how you transfrom the text data, what feature  techniques you used, and what models you applied. State the performance of your model. What did you find out from your NLP analysis?
+> - Section 4: Hypothesis Testing\
+>   In this section, perform a experimental/hypothesis test. Clearly state your assumption and designs of your test. Explain the significance of this test. Be sure to include which metrics you track and how you would make a decision based on the experiment results.
+> - Section 5: Proposal and Conclusion\
+>   In this section, propose a valid proposal based on your previous analysis on this dataset. Clearly state any concepts and the significance of your proposal. Breifly state your conclusion and make sure that you use evidence from data anaysis/visualizations to support your conclusion or validity of proposal.
 
 Citation: “U.S. Chronic Disease Indicators (CDI).” U.S. Chronic Disease Indicators (CDI) | HealthData.gov, 27 Jan. 2020, healthdata.gov/dataset/us-chronic-disease-indicators-cdi.
 
@@ -118,8 +129,11 @@ Dataset: UBER Travel Time Analysis [Download Link](https://drive.google.com/driv
 
 [Detailed information](https://docs.google.com/document/d/1dkL57TtXLGVWisro-Uiok8USebTi1NjkxygK_l_mBw0/edit?usp=sharing)
 
-#### Guidence on Report
-> 
+#### Guidence on Report/Presentation
+> - Section 1: Data Cleaning/Preprocessing\
+>   In this section, breifly explain what you have done cleaning the data, what challenges you have encountered and how you resolved them. Also, state any assumptions you made here.
+> - Section 2: Data Visualization\
+>   In this section, 
 
 Citation: © United States Postal Service 2015 MultiNet North America © 2006 – 2015 TomTom
 “Data retrieved from Uber Movement, (c) 2020 Uber Technologies, Inc.
