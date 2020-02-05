@@ -33,6 +33,6 @@ Welcome to 2020 Datahacks! Out of hundreds of applicants, you’ve been selected
 
 *Find more information [here](./Dataset/README.md)*.
 ### Business Track
-> Over the past decade, the transportation industry has become one of the most promising areas for careers in Data Science and/or Data Engineering. At UBER, the world’s most popular ride-share service, data scientists have access to billions of rows of data and are expected to showcase mastery over-processing, visualizing, and analyzing the company’s data. In this track, you will have the opportunity to work with real-world UBER time-series data from the San Francisco area, spanning across the second quarter of 2019 (01/01/2019 - 06/30/2019). The time-series data will be centered on travel times for UBER trips in the overall San Francisco area.
+> Over the past decade, the transportation industry has become one of the most promising areas for careers in Data Science and/or Data Engineering. At UBER, the world’s most popular ride-share service, data scientists have access to billions of rows of data and are expected to showcase mastery over-processing, visualizing, and analyzing the company’s data. In this track, you will have the opportunity to work with real-world UBER time-series data from the San Francisco area, spanning across the first and second quarters of 2019. The time-series data will be centered on travel times for UBER trips in the overall San Francisco area.
 
 *Find more information [here](./Dataset/README.md)*.
