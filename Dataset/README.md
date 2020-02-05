@@ -7,11 +7,32 @@
 [back to top](#track-information)\
 Dataset: San Diego Housing Information [Download Link](https://drive.google.com/drive/folders/1_dTPxfUIFTR_k40Iv5IVX-meTxmWDbL_?usp=sharing)
 
-#### Prompt
-> Experiment with the data given and see if there is a common factor among houses with similar living conditions in San Diego.
-> - Clean the dataset in accordance with what rows are relevant to the research
-> - Examine the overall distribution of data using different plots
-> - Use linear regression to see what factors contribute to the living conditions of houses.
+#### Background Information
+> San Diego was a little different 50 years ago from what it is today, including the racial distribution of people living in the area and such. The Census Bureau collected data from different ‘census tracts’, or small blocks of areas in a city divided for census purposes. These tracts are further divided into smaller ‘blocks’ for more specific divisions. \
+We will be using two datasets collected in this time period, that contain information about the same ‘census tract’. The SD1970_population table will contain features like age, gender, race and marital status of San Diego residents in the 1970s, and the SD1970_housing table will contain features like average listing price/monthly rent, number of rooms, and kitchen/plumbing situations of their houses in the same year. The identifying feature for each row will be the tract (“Tract Name”) and block number (“Block Group”) combined, of the represented areas.\
+Our goal is to experiment with the data given below and see if there is a common factor among houses with similar living conditions in San Diego, and what kinds of features in the population distribution is associated with features from the housing distribution.
+
+#### Prompt/Rubric
+> 1. Cleaning: Clean the dataset in accordance with what rows are relevant to the research\
+> 1.1. Dealing with null values, duplicate/ambiguous rows, datatype\
+> 1.2. Column Manipulation: lump similar columns together and get rid of unwanted columns. **Add columns “Total Male Persons” and “Total Female Persons” to the population dataframe, and include each column values for the 1st row (Census Tract 1, Block 1) in the report**.\
+> 1.3. Data should be optimally cleaned, with similar columns combined together/dropped
+> 2. Visualization: Examine the overall distribution of data using different plots\
+> 2.1. Plotting: How big are each block/residential area? **What block is the second common, following San Diego?**\
+> 2.2. Pandas: How is the pricing of houses distributed in San Diego? **What's the average price of all houses in San Diego?**\
+> 2.3. Pandas: **What block has the highest average price (based on the owner-occupied average value)?**\
+> 2.4. Plotting: Focus on various categories and find out the distribution of different people living in San Diego. For example, what's the age distribution for males in San Diego like, for females; what's the distribution for individuals with different races living in San Diego, etc.?
+> 3. Machine Learning: Use machine learning (linear regression) to see what factors are correlated to the living conditions of houses.\
+> 3.1. Define the condition of a house and what columns are relevant to it.\
+> 3.2. Does the gender of occupants affect how expensive the house they live in is? What about age? Or marriage status? Perform linear regression on 2 or more features in the population dataset.\
+> 3.3. Find a meaningful relationship between the residents of a house and its conditions using different machine learning techniques.
+> 4. Analysis - Final Report\
+> 4.1. Minimum 2 pages, double spaced, ~12 pt with clear & legible font\
+> 4.2. Include all aspects of the 3 steps given above with details on the procedure.\
+> 4.3. Must be a clear and concise communication of end results and final analysis\
+> 4.4. Minimal grammatical/vocabulary errors and consistent formatting
+
+*Questions in bold will be answered for correctness in the final report!!!*
 
 #### Metadata
 > SD1970_population.csv
