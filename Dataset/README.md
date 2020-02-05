@@ -32,7 +32,7 @@ Dataset: San Diego Housing Information [Download Link](https://drive.google.com/
 
 [Detailed Information](https://docs.google.com/document/d/1tqs9xzabHg8Mh-SiPP16YxR-csN06R_fBX_IVWyQD_M/edit?usp=sharing)
 
-#### Guidence on Report/Presentation
+#### Guidance on Report/Presentation
 > - Section 1: Data Cleaning/Preprocessing\
 >   In this section, breifly explain what you have done cleaning the data, what challenges you have encountered and how you resolved them. Also, state any assumptions you made here.
 > - Section 2: Data Visualization\
@@ -66,7 +66,7 @@ Dataset: US Chronic Disease [Download Link](https://drive.google.com/drive/folde
 > - StatificationId: ID terms that correspond to the categories.
 > - ConfidenceLimit: Some values have uncertainty, thus a low confidence limit and high confidence limit are presented to give a range of possible values.
 
-#### Guidence on Report/Presentation
+#### Guidance on Report/Presentation
 > - Section 1: Data Cleaning/Preprocessing\
 >   In this section, breifly explain what you have done cleaning the data, what challenges you have encountered and how you resolved them. Also, state any assumptions you made here.
 > - Section 2: Data Visualization\
@@ -129,7 +129,7 @@ Dataset: UBER Travel Time Analysis [Download Link](https://drive.google.com/driv
 
 [Detailed information](https://docs.google.com/document/d/1dkL57TtXLGVWisro-Uiok8USebTi1NjkxygK_l_mBw0/edit?usp=sharing)
 
-#### Guidence on Report/Presentation
+#### Guidance on Report/Presentation
 > - Section 1: Data Cleaning/Preprocessing\
 >   In this section, breifly explain what you have done cleaning the data, what challenges you have encountered and how you resolved them. Also, state any assumptions you made here.
 > - Section 2: Data Visualization\
