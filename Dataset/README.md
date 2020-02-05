@@ -92,6 +92,7 @@ Dataset: UBER Travel Time Analysis [Download Link](https://drive.google.com/driv
 > 3. Prepare and submit a report with visualizations of your findings for consumption by a cross-functional audience. Consider the following tasks:\
 > a. Indicate interesting trends throughout the travel times, both real and predicted. \
 > b. Provide recommendations on how UBER can improve travel times to the given Hotspots and/or BART stations. 
+> *Note: Feel free to incorporate other resources and go beyond what the prompt is asking. Express your creativity throughout the project!*
 
 #### Metadata
 > barts_all.csv
@@ -119,4 +120,5 @@ Dataset: UBER Travel Time Analysis [Download Link](https://drive.google.com/driv
 #### Guidence on Report
 > 
 
-Citation: TODO
+Citation: © United States Postal Service 2015 MultiNet North America © 2006 – 2015 TomTom
+“Data retrieved from Uber Movement, (c) 2020 Uber Technologies, Inc.
