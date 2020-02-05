@@ -129,24 +129,29 @@ Dataset: UBER Travel Time Analysis [Download Link](https://drive.google.com/driv
 *Note: Feel free to incorporate other resources and go beyond what the prompt is asking. Express your creativity throughout the project!*
 
 #### Metadata
-> barts_all.csv
-> - Size: 819KB
-> - Rows: 5456
+> barts_to_all.csv
+> - Size: 1.6 MB
+> - Rows: 10873
 > - Features: 8
 
-> hotspots_all.csv
-> - Size: 564 KB
-> - Rows: 3973
+> hotspots_to_all.csv
+> - Size: 1.1 MB
+> - Rows: 7821
 > - Features: 8
 
 > barts_hotspots.csv
-> - Size: 352 KB
-> - Rows: 1638
+> - Size: 686 KB
+> - Rows: 3258
 > - Features: 23
 
-> hours.csv 
-> - Size: 98 MB
-> - Rows: 2,091,869
+> hours_q1.csv 
+> - Size: 24.4 MB
+> - Rows: 633172
+> - Features: 7
+
+> hours_q2.csv 
+> - Size: 24.5 MB
+> - Rows: 635565
 > - Features: 7
 
 [Detailed information](https://docs.google.com/document/d/1dkL57TtXLGVWisro-Uiok8USebTi1NjkxygK_l_mBw0/edit?usp=sharing)
