@@ -88,23 +88,24 @@ Dataset: UBER Travel Time Analysis [Download Link](https://drive.google.com/driv
 #### Prompt
 > **Part 1**\
 > In this track, you will have the opportunity to work with real-world UBER time-series data from the San Francisco area, spanning across the first and second quarters of 2019. The time-series data will be centered on **travel times** for UBER trips in the overall San Francisco area. Before you continue on, please review the metadata below. You will be required to **process**, **visualize**, and **analyze** the data while answering the following questions along the way:
-> 1. For every Hotspot, recommend the appropriate BART station to get off of in order to minimize travel time. \
-> a. Does the appropriate BART station change throughout the day? \
-> b. Throughout the week? 
-> 2. Compare and contrast travel times between different BART stations and Hotspots based on these factors: time of day, day of the week, and the direction of travel. \
-> a. Consider restructuring the data on the basis of some of the previously listed factors.
+> 1. For every Hotspot, recommend the appropriate BART station to get off of in order to **minimize travel time**. \
+> a. Does the appropriate BART station change throughout the day? Throughout the week? 
+> 2. Compare and contrast travel times between different BART stations and Hotspots based on these factors: **time of day, day of the week, and the direction of travel**. \
+> a. Consider restructuring the data on the basis of some of the previously listed factors.   
 > 3. What actionable recommendations are there for riders traveling from unique BART stations to Hotspots around the city? What about for tourists planning their way back home from Hotspots to BART stations?
+
 
 > **Part 2**\
 > In the first round, you were mainly interested in gaining a better understanding of the data that was available to you. However, one of the most important roles of a data scientist involves accurately predicting future data. You will now be asked to utilize **machine learning** to predict future UBER travel times on the various BART_Hotstpot / Hotspot_BART trips. Using the same data from the first round, complete the following objectives:
-> 1. Develop a hypothesis for how travel times in San Francisco will change, if at all, in the future? \
+> 1. Develop a proposal for how travel times in San Francisco may change in the future? \
 > a. Provide justification based on your analysis from the first round as well as any information relevant to the unique nature of time-series data.
-> 2. Define a forecasting model(s) most appropriate to the UBER time-series data? (Check out the [tutorial](TODO: Link) for hints on forecasting algorithms) \
-> a. Develop datasets with future travel times for a minimum of **six** BART-Hotspot / Hotspot-BART trips. 
+> 2. Define a **machine learning model(s)** most appropriate for predicting future trip travel times. Develop datasets with these future travel times for a **minimum of six** BART_to_Hotspot / Hotspot_to_BART trips.\
+> a. Consider varying the measure of time (daily, weekly, monthly) used when forecasting future travel times. 
 > 3. Prepare and submit a report with visualizations of your findings for consumption by a cross-functional audience. Consider the following tasks:\
 > a. Indicate interesting trends throughout the travel times, both real and predicted. \
 > b. Provide recommendations on how UBER can improve travel times to the given Hotspots and/or BART stations. 
-> *Note: Feel free to incorporate other resources and go beyond what the prompt is asking. Express your creativity throughout the project!*
+
+*Note: Feel free to incorporate other resources and go beyond what the prompt is asking. Express your creativity throughout the project!*
 
 #### Metadata
 > barts_all.csv
