@@ -57,7 +57,13 @@ Our goal is to experiment with the data given below and see if there is a common
 > - Section 1: Data Cleaning/Preprocessing\
 >   In this section, breifly explain what you have done cleaning the data, what challenges you have encountered and how you resolved them. Also, state any assumptions you made here.
 > - Section 2: Data Visualization\
->   In this section, 
+>   In this section, make sure that your visualizations are informative, creative, and relevant. State what tools you used to make the visualizations.
+> - Section 3: Machine Learning\
+>   In this section, explain any techniques you used in details, including but not limit to how you transfrom the data, what feature techniques you used, and what models you applied. State the performance of your model. What did you find out from your analysis? Make sure that you answer every question stated in the prompt.
+> - Section 4: Conclusion\
+>   In this section, breifly summarize your findings.
+
+**Important: At the end of your report, remember to include all your answers to bolded questions in the prompt!!!**
 
 Collected by the United States Department of Commerce. Bureau of the Census;\
 Citation: University of California San Diego Data Services, 2005, "Block Group-Level Data, 1970: San Diego, California", hdl.handle.net/UCSD/21GY3 UNF:5:nZTGvV96cvLUqAgFl5TThg== University of California San Diego Social Science Data Collection [Distributor] V1 [Version]
@@ -93,7 +99,7 @@ Dataset: US Chronic Disease [Download Link](https://drive.google.com/drive/folde
 > - Section 2: Data Visualization\
 >   In this section, make sure that your visualizations are informative, creative, and relevant. State what tools you used to make the visualizations.
 > - Section 3: NLP Analysis\
->   In this section, explain any techniques you used in details, including but not limit to how you transfrom the text data, what feature  techniques you used, and what models you applied. State the performance of your model. What did you find out from your NLP analysis?
+>   In this section, explain any techniques you used in details, including but not limit to how you transfrom the text data, what feature techniques you used, and what models you applied. State the performance of your model. What did you find out from your NLP analysis?
 > - Section 4: Hypothesis Testing\
 >   In this section, perform a experimental/hypothesis test. Clearly state your assumption and designs of your test. Explain the significance of this test. Be sure to include which metrics you track and how you would make a decision based on the experiment results.
 > - Section 5: Proposal and Conclusion\
@@ -160,7 +166,13 @@ Dataset: UBER Travel Time Analysis [Download Link](https://drive.google.com/driv
 > - Section 1: Data Cleaning/Preprocessing\
 >   In this section, breifly explain what you have done cleaning the data, what challenges you have encountered and how you resolved them. Also, state any assumptions you made here.
 > - Section 2: Data Visualization\
->   In this section, 
+>   In this section, make sure that your visualizations are informative, creative, and relevant. State what tools you used to make the visualizations.
+> - Section 3: Forecasting/Machine Learning\
+>   In this section, explain any techniques you used in details, including but not limit to how you transfrom the time data, what feature techniques you used, and what models you applied. State how you split the data into train/validation set. State the performance of your model and any specific terms you want the audience to know. What did you find out from your analysis/forcasting? 
+> - Section 4: Business Analysis and proposal\
+>   In this section, propose a valid business proposal based on your analysis on this dataset. Clearly state any concepts and the significance of your proposal. Perform or design an experimental test if necessary (optional). Make sure that you use evidence from data anaysis/visualizations to support your conclusion or validity of proposal.
+> - Section 5: Conclusion\
+>   In this section, breifly summarize your findings and business insights.
 
 Citation: © United States Postal Service 2015 MultiNet North America © 2006 – 2015 TomTom
 “Data retrieved from Uber Movement, (c) 2020 Uber Technologies, Inc.
