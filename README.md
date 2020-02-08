@@ -12,13 +12,13 @@ Welcome to DataHacks 2020! Out of hundreds of applicants, you’ve been selected
 - [Github Desktop](https://desktop.github.com/): If you don’t know Github or don’t have a Github account, please look at this [post](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) first
 ### Rules
 * Each team consists of up to **THREE** people (≤ 3)
-* For beginner track, **ONLY** beginners can form a team
+* For beginner track, **ONLY** beginners (students who have not taken DSC 80 or any CSE/COGS/DSC upper-div class) can form a team
 ### Competition format
 1. Each team pick a track to work on
 2. You have 24 hours until **Sunday noon** to work on your dataset
 3. Follow the prompt/README file for each track
 4. Prepare for a report with all of your findings in **reasonable length**
-5. Zip your **report and code** and submit as a group to Devpost (link above, come up with your own team name!).
+5. Zip your **report (pdf) and code** and submit as a group to Devpost (link above, come up with your own team name!).
 6. Judges will read through your reports and pick the **top three team from each track**
 7. Selected nine teams will go on stage and **present** their findings (maximum five minutes per team)
 8. Judges will announce **one winner per track** based on the presentations
