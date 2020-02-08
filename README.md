@@ -5,7 +5,7 @@ Welcome to DataHacks 2020! Out of hundreds of applicants, you’ve been selected
 ### Useful tools and websites
 - [Anaconda](https://www.anaconda.com/distribution/?gclid=EAIaIQobChMI3Mj06rav5wIVwRd9Ch20mw4zEAAYASAAEgLRDvD_BwE#download-section): Python 3.7, Graphical Installer recommended but not required
 - Slack: [Mac](https://slack.com/downloads/mac) [Windows](https://slack.com/downloads/windows)
-- [DataHacks 2020 Website](http://datahacks.tech/): Schedule is listed here.
+- [Live site](http://datahacks.tech/): Schedule is listed here.
 - [Slack Channel](https://join.slack.com/t/datahacks2020/shared_invite/enQtOTMyNDM3MzQ2NzU5LWYyZjc2NTgxOGFlNjUyYTBjNjk3OWFiOWY3YTYwYTk1OThkYTYwNDY1ZmI2ZWQxM2MxYjZiNWE3YTg5NWVhNDI): Our main tool of communication.
 - [Devpost](https://datahacks.devpost.com/?preview_token=QQWbaYzAyjvDGT0g95624H8gHoHq518QC3HIU2zDEKM%3D): The website to submit your report
 - [Visual Studio Code](https://code.visualstudio.com/download): one text editor
