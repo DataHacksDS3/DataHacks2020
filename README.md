@@ -1,5 +1,5 @@
 # DataHacks 2020
-Welcome to 2020 Datahacks! Out of hundreds of applicants, you’ve been selected because you display true potential for solving complex problems and exude a passion for comprehending and transforming data. Let’s begin the Hackathon!
+Welcome to DataHacks 2020! Out of hundreds of applicants, you’ve been selected because you display true potential for solving complex problems and exude a passion for comprehending and transforming data. Let’s begin the Hackathon!
 
 # READ BEFORE HACKING STARTS
 ### Useful tools and websites
