@@ -17,9 +17,9 @@ Welcome to DataHacks 2020! Out of hundreds of applicants, you’ve been selected
 1. Each team pick a track to work on
 2. You have 24 hours until **Sunday noon** to work on your dataset
 3. Follow the prompt/README file for each track
-4. Prepare for a report with all of your findings in **reasonable length**
-5. Zip your **report (pdf) and code** and submit as a group to Devpost (link above, come up with your own team name!).
-6. Judges will read through your reports and pick the **top three team from each track**
+4. Prepare for a report with all of your findings in a **reasonable length**
+5. Zip your **report (pdf) and code** and submit as a group to Devpost (link above, come up with an appropriate team name!).
+6. Judges will read through your reports and pick the **top three teams from each track**
 7. Selected nine teams will go on stage and **present** their findings (maximum five minutes per team)
 8. Judges will announce **one winner per track** based on the presentations
 
