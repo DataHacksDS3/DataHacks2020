@@ -19,7 +19,7 @@ Our goal is to experiment with the data given below and see if there is a common
 > 1.3. Data should be optimally cleaned, with similar columns combined together/dropped
 > 2. Visualization: Examine the overall distribution of data using different plots\
 > 2.1. Plotting: How big is each block/residential area? **What place (place name) is the second most common, following San Diego?**\
-> 2.2. Pandas: How is the pricing of houses distributed in San Diego? **What's the average price of all houses in San Diego?**\
+> 2.2. Pandas: How is the pricing of houses distributed in San Diego? **What's the average price of all houses in San Diego?** Please use the “Total owner occupied average $ value of housing units” column to calculate the answers!\
 > 2.3. Pandas: **What place (place name) has the highest average price (based on the owner-occupied average value)?**\
 > 2.4. Plotting: Focus on various categories and find out the distribution of various demographics living in San Diego. For example, what's the age distribution for males in San Diego like? What about for females? What's the distribution for individuals with different races living in San Diego, etc.?
 > 3. Machine Learning: Use machine learning (linear regression) to see what factors are correlated to the living conditions of houses.\
